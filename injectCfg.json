@@ -1,0 +1,7 @@
+{
+    "index" : {
+        "js" : ["src/js/index.js"],
+        "css" : [],
+        "tpl" : ["index.html"]
+    }
+}

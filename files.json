@@ -1,0 +1,11 @@
+{
+  "js": [
+    "/bin/js/a.js"
+  ],
+  "css": [
+    "/bin/css/index.css"
+  ],
+  "html": [
+    "/bin/tpl/index.html"
+  ]
+}
